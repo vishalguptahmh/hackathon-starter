@@ -129,6 +129,9 @@ cd myproject
 # Install NPM dependencies
 npm install
 
+# start MongoDB from terminal
+/Users/vishalgupta/Documents/practice/mongodb-macos-x86_64-4.2.6/bin/mongod --dbpath /Users/vishalgupta/Documents/practice/mongo_db_store_folder
+
 # Then simply start your app
 node app.js
 ```
